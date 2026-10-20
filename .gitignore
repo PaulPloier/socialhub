@@ -43,3 +43,5 @@ next-env.d.ts
 # SocialHub
 .env
 data/
+# Von Next.js temporär erzeugte, kompilierte Konfigurationen
+*.next.config.*
